@@ -1,0 +1,1 @@
+# Exemplo de repositório referente à algoritmos do curso Devaria
